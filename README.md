@@ -1,6 +1,6 @@
 # A3: N-Body
 
-# To be clear, this assignment has been finished by me to help students that I've been tutoring. All the code here is finished. 
+# To be clear, this assignment has been finished by me to help students that I've been tutoring. All the code here is fully finished and functional at this point. 
 
 Refer back to A1 for information on running the development server, and with running tests locally.
 
